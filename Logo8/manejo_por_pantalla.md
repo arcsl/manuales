@@ -25,22 +25,24 @@ El PLC Logo 8 de Siemens es un controlador lógico programable compacto y versá
 
 1. Si su aplicacion está correctamente configurada e iniciada por ARC, la pantalla principal mostará los valores de las entradas mas relevantes con un texto descriptivo.
 
+<!-- <div style="page-break-after: always;"></div> -->
 
 ### 1.3 Estado Inicial
 
 1. En caso de que tener la aplicacion configurada e iniciada pero sin ninguna pantalla principal, el PLC mostrara la fecha y la hora actuales:
-
-[Hora y Fecha](./imagenes/horafecha.png)
+<div style="text-align: center;">
+<img src="imagenes/horafecha.png" alt="Hora y Fecha" style="width:50%;"/>
+</div>
 
 2. Tambien puede mostrar una de las 9 pantallas similares a esta donde se muestran los valores actuales de entradas y salidas
 
-[Entradas digitales](./imagenes/digInputs.png)
+<img src="imagenes/digInputs.png" alt="Entradas digitales" style="width:50%;"/>
 
 3. puede moverse entre esas 9 pantallas y la de fecha y hora usando las teclas direccionales derecha e izquierda.
 
 4. Por ultimo, en caso de no tener aplicacion configurada o no estar iniciada la pantalla mostrará el menu principal:
 
-[Menú principal](./imagenes/menu.png)
+<img src="imagenes/menu.png" alt="Menú principal" style="width:50%;"/>
 
 ## 2. Navegación Básica en la Pantalla
 
